@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.1",
+    "@types/styled-components": "^5.1.14",
+    "react-refresh": "^0.10.0",
+    "styled-components": "^5.3.1"
   }
 }
